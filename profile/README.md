@@ -1,4 +1,4 @@
-![Open Source at Vehement](https://github.com/ivehement/.github/blob/master/images/open-at-ivehement.png) 
+![Open Source at Vehement](https://github.com/ivehement/.github/blob/master/images/open-at-vehement.png) 
 
 ## Get Involved
 
